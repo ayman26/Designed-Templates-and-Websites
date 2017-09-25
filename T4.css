@@ -1,0 +1,113 @@
+.parent
+{
+    background-image: url(contact-bg.jpg);
+    background-size: cover;
+    padding-top: 10%;
+    padding-left: 15%;
+    height: 100%;
+    
+
+}
+
+.child1
+{
+    background-color: rgba(255,100,100,0.2);
+    background-size: cover;
+    color: white;
+    padding: 53px;
+    width: 31%;
+    height: 73%;
+}
+
+h1
+{
+    margin-top: 2%;
+    font-family:cursive;
+}
+
+p
+{
+    color:cornsilk;
+    font-family:sans-serif;
+    
+}
+
+input , textarea
+{
+    background-color: rgba(255,100,100,0.1);
+    border-color: white;
+    color: white;
+    padding: 10px;
+    margin: 10px; 
+    padding-right: 160px;
+    margin-left: -5px
+}
+
+button
+{
+    background-color:darkred;
+    color: white;
+    padding: 5px 25px;
+    margin-left: 66%;
+    border-color: rgba(255,100,100,0.2);
+    
+}
+
+.child2 
+{
+    
+    background-color: rgba(255,100,100,0.2);
+    background-size: cover;
+    color: white;
+    width: 31%;
+    height: 20%;
+    padding: 15px;
+    padding-bottom: 28px;
+    padding-right: 75px;
+    margin: 30px;
+    margin-top: -51%;
+    margin-left: 43%;
+   
+}
+
+.child3
+{
+    background-color: rgba(255,100,100,0.2);
+    background-size: cover;
+    color: white;
+    width: 31%;
+    height: 20%;
+    padding: 15px;
+    padding-right: 75px;
+    margin: 30px;
+    margin-left: 43%
+}
+
+.child4
+{
+    background-color: rgba(255,100,100,0.2);
+    background-size: cover;
+    color: white;
+    width: 31%;
+    height: 20%;
+    height: 20%;
+    padding: 15px;
+    padding-bottom: 40px;
+    padding-right: 75px;
+    margin: 30px;
+    margin-left: 43%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+.parent
+{
+    background-size: cover;
+    background-image: url(contact-bg.jpg);    
+    padding: 10%;
+    height: 100%
+}
+
+.child1
+{
+    
+    width: 30%;
+    height: 30%;
+       
+}
+
+h1
+{
+    color: aliceblue;
+    margin-left: 10%;
+    
+    
+}
+
+p
+{
+    color: aliceblue;
+    margin: 10%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+img
+{
+
+    padding: 15px; 
+    width: 20px;
+    height: 20px;
+    border-radius:50%
+}
+
+span
+{
+    margin: 10%
+    
+}
+
+.a
+{
+    margin-top: -20%;
+    margin-left: 30%;
+    width: 35%;
+    height: 35%;
+    
+}
+
+
+.b
+{
+    margin-top: -20%;
+    margin-left: 60%
+    
+}
+
+input
+{
+    border-radius: 10px;
+    padding: 12px;
+    
+}
+
+textarea
+{
+    border-radius: 10px
+    
+}
+
+button
+{
+    margin-left: 70%;
+    padding: 8px 25px;
+    font-weight: bold;
+    color: currentColor;
+    border-radius: 10px
+    
+}
+
+
+
+
+
